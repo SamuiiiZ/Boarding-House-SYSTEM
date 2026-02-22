@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\FormBoarderDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormBoarders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormConnection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormOwnerProperties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormRooms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\ModernControls.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

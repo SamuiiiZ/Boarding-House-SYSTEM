@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|c:\\users\\ryane\\downloads\\boarding-house-management-system-main (1)\\boarding-house-management-system-main\\boarding house management system\\boardinghousesys\\forms\\formownerproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|solutionrelative:boardinghousesys\\forms\\formownerproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|c:\\users\\ryane\\downloads\\boarding-house-management-system-main (1)\\boarding-house-management-system-main\\boarding house management system\\boardinghousesys\\forms\\formboarderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|solutionrelative:boardinghousesys\\forms\\formboarderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|c:\\users\\ryane\\downloads\\boarding-house-management-system-main (1)\\boarding-house-management-system-main\\boarding house management system\\boardinghousesys\\forms\\formrooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|solutionrelative:boardinghousesys\\forms\\formrooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\boardinghousesys\\forms\\formusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|solutionrelative:boardinghousesys\\forms\\formusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|c:\\users\\ryane\\downloads\\boarding-house-management-system-main (1)\\boarding-house-management-system-main\\boarding house management system\\boardinghousesys\\forms\\formownerproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|solutionrelative:boardinghousesys\\forms\\formownerproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|c:\\users\\ryane\\downloads\\boarding-house-management-system-main (1)\\boarding-house-management-system-main\\boarding house management system\\boardinghousesys\\forms\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|solutionrelative:boardinghousesys\\forms\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|c:\\users\\ryane\\downloads\\boarding-house-management-system-main (1)\\boarding-house-management-system-main\\boarding house management system\\boardinghousesys\\forms\\formconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|solutionrelative:boardinghousesys\\forms\\formconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\boardinghousesys\\forms\\formboarders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|solutionrelative:boardinghousesys\\forms\\formboarders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\boardinghousesys\\forms\\formboarderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|solutionrelative:boardinghousesys\\forms\\formboarderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|c:\\users\\ryane\\downloads\\boarding-house-management-system-main (1)\\boarding-house-management-system-main\\boarding house management system\\boardinghousesys\\forms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|solutionrelative:boardinghousesys\\forms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|c:\\users\\ryane\\downloads\\boarding-house-management-system-main (1)\\boarding-house-management-system-main\\boarding house management system\\boardinghousesys\\forms\\formconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|solutionrelative:boardinghousesys\\forms\\formconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|c:\\users\\ryane\\downloads\\boarding-house-management-system-main (1)\\boarding-house-management-system-main\\boarding house management system\\boardinghousesys\\forms\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|solutionrelative:boardinghousesys\\forms\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|c:\\users\\ryane\\downloads\\boarding-house-management-system-main (1)\\boarding-house-management-system-main\\boarding house management system\\boardinghousesys\\forms\\formboarders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|solutionrelative:boardinghousesys\\forms\\formboarders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|c:\\users\\ryane\\downloads\\boarding-house-management-system-main (1)\\boarding-house-management-system-main\\boarding house management system\\boardinghousesys\\data\\boardinghouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|solutionrelative:boardinghousesys\\data\\boardinghouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|c:\\users\\ryane\\downloads\\boarding-house-management-system-main (1)\\boarding-house-management-system-main\\boarding house management system\\boardinghousesys\\data\\databasebootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|solutionrelative:boardinghousesys\\data\\databasebootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|c:\\users\\ryane\\downloads\\boarding-house-management-system-main (1)\\boarding-house-management-system-main\\boarding house management system\\boardinghousesys\\services\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4B94AE-D276-43F8-87B9-F2E341B4F6DD}|BoardingHouseSys\\BoardingHouseSys.csproj|solutionrelative:boardinghousesys\\services\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormOwnerProperties.cs",
+              "DocumentMoniker": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormOwnerProperties.cs",
+              "RelativeDocumentMoniker": "BoardingHouseSys\\Forms\\FormOwnerProperties.cs",
+              "ToolTip": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormOwnerProperties.cs",
+              "RelativeToolTip": "BoardingHouseSys\\Forms\\FormOwnerProperties.cs",
+              "ViewState": "AgIAAIYBAAAAAAAAAAAAAIYBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T09:46:05.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormBoarderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormBoarderDetails.cs",
+              "RelativeDocumentMoniker": "BoardingHouseSys\\Forms\\FormBoarderDetails.cs",
+              "ToolTip": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormBoarderDetails.cs",
+              "RelativeToolTip": "BoardingHouseSys\\Forms\\FormBoarderDetails.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAADgv04AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T06:28:57.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormConnection.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormConnection.cs",
+              "RelativeDocumentMoniker": "BoardingHouseSys\\Forms\\FormConnection.cs",
+              "ToolTip": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormConnection.cs [Design]",
+              "RelativeToolTip": "BoardingHouseSys\\Forms\\FormConnection.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T05:29:48.008Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormOwnerProperties.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormOwnerProperties.cs",
+              "RelativeDocumentMoniker": "BoardingHouseSys\\Forms\\FormOwnerProperties.cs",
+              "ToolTip": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormOwnerProperties.cs [Design]",
+              "RelativeToolTip": "BoardingHouseSys\\Forms\\FormOwnerProperties.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T05:24:39.117Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormRooms.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormRooms.cs",
+              "RelativeDocumentMoniker": "BoardingHouseSys\\Forms\\FormRooms.cs",
+              "ToolTip": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormRooms.cs [Design]",
+              "RelativeToolTip": "BoardingHouseSys\\Forms\\FormRooms.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T05:18:58.908Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "BoardingHouseSys\\Forms\\FormDashboard.cs",
+              "ToolTip": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormDashboard.cs [Design]",
+              "RelativeToolTip": "BoardingHouseSys\\Forms\\FormDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T05:18:51.86Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormUsers.cs",
+              "RelativeDocumentMoniker": "BoardingHouseSys\\Forms\\FormUsers.cs",
+              "ToolTip": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormUsers.cs [Design]",
+              "RelativeToolTip": "BoardingHouseSys\\Forms\\FormUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T03:41:12.855Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormBoarders.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormBoarders.cs",
+              "RelativeDocumentMoniker": "BoardingHouseSys\\Forms\\FormBoarders.cs",
+              "ToolTip": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormBoarders.cs [Design]*",
+              "RelativeToolTip": "BoardingHouseSys\\Forms\\FormBoarders.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T03:41:12.879Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormBoarderDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormBoarderDetails.cs",
+              "RelativeDocumentMoniker": "BoardingHouseSys\\Forms\\FormBoarderDetails.cs",
+              "ToolTip": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormBoarderDetails.cs [Design]",
+              "RelativeToolTip": "BoardingHouseSys\\Forms\\FormBoarderDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T03:41:12.883Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormLogin.cs",
+              "RelativeDocumentMoniker": "BoardingHouseSys\\Forms\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormLogin.cs [Design]",
+              "RelativeToolTip": "BoardingHouseSys\\Forms\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T05:18:42.782Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BoardingHouseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Data\\BoardingHouseRepository.cs",
+              "RelativeDocumentMoniker": "BoardingHouseSys\\Data\\BoardingHouseRepository.cs",
+              "ToolTip": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Data\\BoardingHouseRepository.cs",
+              "RelativeToolTip": "BoardingHouseSys\\Data\\BoardingHouseRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:54:35.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "BoardingHouseSys\\Forms\\FormDashboard.cs",
+              "ToolTip": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormDashboard.cs",
+              "RelativeToolTip": "BoardingHouseSys\\Forms\\FormDashboard.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAswKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T17:52:18.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormConnection.cs",
+              "DocumentMoniker": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormConnection.cs",
+              "RelativeDocumentMoniker": "BoardingHouseSys\\Forms\\FormConnection.cs",
+              "ToolTip": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormConnection.cs",
+              "RelativeToolTip": "BoardingHouseSys\\Forms\\FormConnection.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAWwCUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T17:12:48.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DatabaseBootstrap.cs",
+              "DocumentMoniker": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Data\\DatabaseBootstrap.cs",
+              "RelativeDocumentMoniker": "BoardingHouseSys\\Data\\DatabaseBootstrap.cs",
+              "ToolTip": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Data\\DatabaseBootstrap.cs",
+              "RelativeToolTip": "BoardingHouseSys\\Data\\DatabaseBootstrap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:16:48.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormBoarders.cs",
+              "DocumentMoniker": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormBoarders.cs",
+              "RelativeDocumentMoniker": "BoardingHouseSys\\Forms\\FormBoarders.cs",
+              "ToolTip": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Forms\\FormBoarders.cs",
+              "RelativeToolTip": "BoardingHouseSys\\Forms\\FormBoarders.cs",
+              "ViewState": "AgIAAGsGAAAAAAAAAAAqwHYGAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T03:43:53.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SecurityHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Services\\SecurityHelper.cs",
+              "RelativeDocumentMoniker": "BoardingHouseSys\\Services\\SecurityHelper.cs",
+              "ToolTip": "C:\\Users\\ryane\\Downloads\\Boarding-House-Management-System-main (1)\\Boarding-House-Management-System-main\\Boarding House Management System\\BoardingHouseSys\\Services\\SecurityHelper.cs",
+              "RelativeToolTip": "BoardingHouseSys\\Services\\SecurityHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T03:41:12.891Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

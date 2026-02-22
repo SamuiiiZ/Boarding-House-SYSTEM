@@ -1,0 +1,119 @@
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\BoardingHouseSys.exe
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\BoardingHouseSys.deps.json
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\BoardingHouseSys.runtimeconfig.json
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\BoardingHouseSys.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\BoardingHouseSys.pdb
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\System.Security.Permissions.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.csproj.CopyComplete
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\refint\BoardingHouseSys.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.pdb
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\ref\BoardingHouseSys.dll
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.Forms.FormBoarders.resources
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.Forms.FormUsers.resources
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.Forms.FormLogin.resources
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.Forms.FormDashboard.resources
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.Forms.FormRooms.resources
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.Forms.FormBoarderDetails.resources
+C:\Users\ADMIN\Documents\NetBeansProjects\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.Forms.FormOwnerProperties.resources
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\BoardingHouseSys.exe
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\BoardingHouseSys.deps.json
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\BoardingHouseSys.runtimeconfig.json
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\BoardingHouseSys.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\BoardingHouseSys.pdb
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.csproj.AssemblyReference.cache
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.Forms.FormBoarderDetails.resources
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.Forms.FormBoarders.resources
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.Forms.FormDashboard.resources
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.Forms.FormLogin.resources
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.Forms.FormOwnerProperties.resources
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.Forms.FormRooms.resources
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.Forms.FormUsers.resources
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.csproj.GenerateResource.cache
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.AssemblyInfoInputs.cache
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.AssemblyInfo.cs
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.csproj.CoreCompileInputs.cache
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\Boarding.23FD8468.Up2Date
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\refint\BoardingHouseSys.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.pdb
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.genruntimeconfig.cache
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\ref\BoardingHouseSys.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\BoardingHouseSys.exe
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\BoardingHouseSys.deps.json
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\BoardingHouseSys.runtimeconfig.json
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\BoardingHouseSys.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\BoardingHouseSys.pdb
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.csproj.AssemblyReference.cache
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.Forms.FormBoarderDetails.resources
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.Forms.FormBoarders.resources
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.Forms.FormDashboard.resources
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.Forms.FormLogin.resources
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.Forms.FormOwnerProperties.resources
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.Forms.FormRooms.resources
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.Forms.FormUsers.resources
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.csproj.GenerateResource.cache
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.AssemblyInfoInputs.cache
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.AssemblyInfo.cs
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.csproj.CoreCompileInputs.cache
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\Boarding.23FD8468.Up2Date
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\refint\BoardingHouseSys.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.pdb
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.genruntimeconfig.cache
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\ref\BoardingHouseSys.dll
+C:\Users\ryane\Downloads\Boarding-House-Management-System-main (1)\Boarding-House-Management-System-main\Boarding House Management System\BoardingHouseSys\obj\Debug\net8.0-windows\BoardingHouseSys.Forms.FormConnection.resources
